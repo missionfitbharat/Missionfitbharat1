@@ -123,11 +123,20 @@ button{
 <!-- SOCIAL MEDIA -->
 <section>
 <h2>आमच्याशी कनेक्ट व्हा</h2>
-<div class="social">
- <a href="https://www.instagram.com/missionfitbharat1?igsh=cTU1aDBlYWFrN2x6" target="_blank">📸 Instagram</a>
-  <a href="https://www.facebook.com/share/16QjWUMzsk/" target="_blank">📘 Facebook</a>
-  <a href="https://www.youtube.com/@Missionfitbharat1" target="_blank">▶️ YouTube</a>
+<div class="social-icons">
+  <a class="instagram" href="https://www.instagram.com/missionfitbharat1?igsh=cTU1aDBlYWFrN2x6" target="_blank">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+  <a class="facebook" href="https://www.facebook.com/share/16QjWUMzsk/" target="_blank">
+    <i class="fab fa-facebook-f"></i>
+  </a>
+
+  <a class="youtube" href="https://www.youtube.com/@Missionfitbharat1" target="_blank">
+    <i class="fab fa-youtube"></i>
+  </a>
 </div>
+
 </section>
 
 <!-- FOOTER -->
